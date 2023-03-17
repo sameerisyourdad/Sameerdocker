@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 bb1b8fad4b9cc793a623313cf00296e36511ad62 lenovo <you@example.com> 1678365352 +0500	commit (initial): first commit
+bb1b8fad4b9cc793a623313cf00296e36511ad62 0000000000000000000000000000000000000000 lenovo <you@example.com> 1678365363 +0500	Branch: renamed refs/heads/main to refs/heads/main
+bb1b8fad4b9cc793a623313cf00296e36511ad62 bb1b8fad4b9cc793a623313cf00296e36511ad62 lenovo <you@example.com> 1678365363 +0500	Branch: renamed refs/heads/main to refs/heads/main
+bb1b8fad4b9cc793a623313cf00296e36511ad62 e6a5017edf379eaec7b02c3b792617354341701a lenovo <you@example.com> 1678368565 +0500	commit: first commit
+e6a5017edf379eaec7b02c3b792617354341701a 0000000000000000000000000000000000000000 lenovo <you@example.com> 1678368576 +0500	Branch: renamed refs/heads/main to refs/heads/main
+e6a5017edf379eaec7b02c3b792617354341701a e6a5017edf379eaec7b02c3b792617354341701a lenovo <you@example.com> 1678368576 +0500	Branch: renamed refs/heads/main to refs/heads/main
+e6a5017edf379eaec7b02c3b792617354341701a e7ece8b6d98f3b57e9e1f652aba23fd01a42604f lenovo <you@example.com> 1678368661 +0500	pull origin main: Merge made by the 'ort' strategy.
+e7ece8b6d98f3b57e9e1f652aba23fd01a42604f 3bc62ee49e5222f11a81fa55473f20f40a9409ec lenovo <you@example.com> 1678979597 +0500	commit: first commit
+3bc62ee49e5222f11a81fa55473f20f40a9409ec 0000000000000000000000000000000000000000 lenovo <you@example.com> 1678979680 +0500	Branch: renamed refs/heads/main to refs/heads/main
+3bc62ee49e5222f11a81fa55473f20f40a9409ec 3bc62ee49e5222f11a81fa55473f20f40a9409ec lenovo <you@example.com> 1678979680 +0500	Branch: renamed refs/heads/main to refs/heads/main
+3bc62ee49e5222f11a81fa55473f20f40a9409ec 371c5e868f398033e7a3a47e56a12ddf4238b5b9 lenovo <you@example.com> 1679078017 +0500	commit: first commit
+371c5e868f398033e7a3a47e56a12ddf4238b5b9 0000000000000000000000000000000000000000 lenovo <you@example.com> 1679078106 +0500	Branch: renamed refs/heads/main to refs/heads/main
+371c5e868f398033e7a3a47e56a12ddf4238b5b9 371c5e868f398033e7a3a47e56a12ddf4238b5b9 lenovo <you@example.com> 1679078106 +0500	Branch: renamed refs/heads/main to refs/heads/main
